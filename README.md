@@ -5,7 +5,11 @@ Esse reposit√≥rio tem como objetivo criar exemplos dos 5 principios de programa√
 
 Tecnologia: JAVA 
 
-*Porem devemos ter ciencia que ao entender a logica de cada design patterns, poderemos replicar em qualquer linguagem orientada a objetos
+*Porem entendendo a logica de cada design patterns, poderemos replicar em qualquer linguagem orientada a objetos
+
+<br>
+
+OBS:
 
 
 
