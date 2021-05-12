@@ -1,0 +1,7 @@
+C:\Users\souza\OneDrive\Área de Trabalho\Camz\Programação\.NET (DOTNET)\C#\Visual Studio Code\tentativas api\teste1\obj\Debug\net5.0\teste1.csprojAssemblyReference.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Camz\Programação\.NET (DOTNET)\C#\Visual Studio Code\tentativas api\teste1\obj\Debug\net5.0\teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\OneDrive\Área de Trabalho\Camz\Programação\.NET (DOTNET)\C#\Visual Studio Code\tentativas api\teste1\obj\Debug\net5.0\teste1.AssemblyInfoInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Camz\Programação\.NET (DOTNET)\C#\Visual Studio Code\tentativas api\teste1\obj\Debug\net5.0\teste1.AssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\Camz\Programação\.NET (DOTNET)\C#\Visual Studio Code\tentativas api\teste1\obj\Debug\net5.0\teste1.csproj.CoreCompileInputs.cache
+C:\Users\souza\OneDrive\Área de Trabalho\Camz\Programação\.NET (DOTNET)\C#\Visual Studio Code\tentativas api\teste1\obj\Debug\net5.0\teste1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\souza\OneDrive\Área de Trabalho\Camz\Programação\.NET (DOTNET)\C#\Visual Studio Code\tentativas api\teste1\obj\Debug\net5.0\teste1.MvcApplicationPartsAssemblyInfo.cache
