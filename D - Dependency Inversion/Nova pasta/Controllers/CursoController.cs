@@ -39,7 +39,7 @@ namespace teste1.Controllers
 
 
 
-    public void delete(){
+    public void delete(int num){
 
 
 
