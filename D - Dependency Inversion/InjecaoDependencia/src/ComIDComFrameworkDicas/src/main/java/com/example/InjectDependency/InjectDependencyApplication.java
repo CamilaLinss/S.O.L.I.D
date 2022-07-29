@@ -31,6 +31,7 @@ public class InjectDependencyApplication {
 		// e sua relação com a classe que a instanciou é bem mais simples do que as outras
 
 		// Podemos ter centenas de Mercadorias de diferentes valores e não é o spring que vai gerenciar isso
+		// Para testes, não tenho problema em usar essa classe em seu contexto real, na verdade é ate bom utilizar
 		Mercadoria mercadoria = new Mercadoria();
 		mercadoria.valor = new BigDecimal(200);
 		mercadoria.Nome = "Controle PS4";
